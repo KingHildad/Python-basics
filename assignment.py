@@ -1,10 +1,4 @@
 # a python program that prompts you to enter a letter then checks whether it is a consonant or a vowel
-#a python program that checks whether a number is prime or not
-
-
-# Vowel or consonant
-
-
 def check_vowel_or_consonant(letter):
     vowels = "aeiouAEIOU"
 
@@ -23,5 +17,5 @@ print(result)
 
 
 
-
+#encaplusation......simple python program to demonstrate encapsulation in OOP.
 
